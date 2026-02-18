@@ -23,7 +23,7 @@ Hata Oranı (WER): Başlangıçtaki yüksek hata oranlarını aşarak %9.97 sevi
 <img width="806" height="220" alt="Ekran görüntüsü 2026-02-16 231555" src="https://github.com/user-attachments/assets/4a4bc71c-dcb2-40cb-a05e-e0e175028265" />
 
 
-
+----------------------------------------------------------------------------
 
 
 <img width="631" height="188" alt="Ekran görüntüsü 2026-02-16 112404" src="https://github.com/user-attachments/assets/953a8356-ab0a-409d-bdd0-bb7de01b86b7" />
